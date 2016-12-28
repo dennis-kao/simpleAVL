@@ -29,7 +29,7 @@ It them prompts input from the user with the line:
 
 Initializing (1) the tree will prompt the user to input a text file with strings
 separated by whitespace characters. The input file should be placed in the root
-of the directory (/a4). The program will then store these characters
+of the directory (/simpleAVL). The program will then store these characters
 as individual nodes in an AVL tree. If a key has already been read in the tree,
 the "count" within the node will be incremented by one.
 
