@@ -5,7 +5,7 @@
 ======================================
 Compilation and execution
 ======================================
-The program can be compiled by navigating to the root directory (/a4) and
+The program can be compiled by navigating to the root directory (/simpleAVL) and
 typing: "make". The program can then by run by the command "make run".
 
 ======================================
